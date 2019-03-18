@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/PuppyBBS.Services/bin/Debug/netstandard2.0
+/PuppyBBS.Services/obj
+/.vs/PuppyBBS/v15/Server/sqlite3
+/PuppyBBS.Web/bin/Debug/netcoreapp2.1
+/PuppyBBS.Web/obj
