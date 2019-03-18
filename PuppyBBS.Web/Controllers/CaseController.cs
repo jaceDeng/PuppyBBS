@@ -11,7 +11,7 @@ namespace PuppyBBS.Web.Controllers
         public IActionResult Case()
         {
             return View();
-        }
+        } 
 
     }
 }
