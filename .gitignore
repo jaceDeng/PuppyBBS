@@ -4,6 +4,6 @@
 
 /PuppyBBS.Services/bin/Debug/netstandard2.0
 /PuppyBBS.Services/obj
-/.vs/PuppyBBS/v15/Server/sqlite3
+/.vs
 /PuppyBBS.Web/bin/Debug/netcoreapp2.1
 /PuppyBBS.Web/obj
